@@ -29,7 +29,7 @@ from pyrogram import (
 
 #حقوق احمد @H1HHIH - @ELHYBA
 # تطوير مودي الهيبه اذا ما ذكرت مصدر بنحكح امك @ELHYBA - @SOURCE_ZE 
-ownerID = int("6723988021") #ايدي الادمن 
+ownerID = int("5749137933") #ايدي الادمن 
 api_hash = Config.API_HASH #ايبي هاش 
 api_id = Config.APP_ID #ايبي ايدي
 token = Config.TG_BOT_TOKEN #البوت
